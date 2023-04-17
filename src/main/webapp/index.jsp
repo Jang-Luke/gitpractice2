@@ -6,6 +6,6 @@
     <title>Git Test</title>
 </head>
 <body>
-    <p>프로젝트 최초 시작</p>
+    <p>나가기 귀찮은데 배달 ㄱ?</p>
 </body>
 </html>
